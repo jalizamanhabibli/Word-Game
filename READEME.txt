@@ -1,0 +1,4 @@
+Proqramı işə salmazdan əvvəl DataBase-i quraşdırın.
+Sonra admin paneli acmağ üçün 
+Username: admin
+Password: admin
